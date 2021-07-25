@@ -28,7 +28,7 @@ panel:
 
 #  The liquid date format › http://strftime.net/
 date_format:
-  tooltip: '%a, %F, %R %z'
+  tooltip: '%F, %R %z'
   post:
     long: '%F'
     short: '%m-%d'
